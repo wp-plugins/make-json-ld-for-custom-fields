@@ -1,0 +1,6 @@
+.git
+.travis.yml
+bin
+phpunit.xml
+tests
+README.md
